@@ -34,15 +34,14 @@ trojan://Seedgo@104.16.19.118:443?security=tls&sni=bia.REDMatrIx.eu.OrG&alpn=htt
 trojan://Seedgo@162.159.25.8:443?security=tls&sni=bia.reDMATRiX.Eu.oRg&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoiMUUxdmtZQWs1Q29hdSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIm5hLjg3Nzc3NC54eXoiLCJjZi44Nzc3NzQueHl6IiwiZnJlZXl4LmNsb3VkZmxhcmU4OC5ldS5vcmciLCJzYWFzLnNpbi5mYW4iLCJjdC4wOTAyMjcueHl6Il19#%F0%9F%92%A6%2007
 trojan://Seedgo@162.159.152.81:443?security=tls&sni=bIA.ReDMATrIX.eU.ORg&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoidnVNS2x5aUZjRm96MCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIm5hLjg3Nzc3NC54eXoiLCJjZi44Nzc3NzQueHl6IiwiZnJlZXl4LmNsb3VkZmxhcmU4OC5ldS5vcmciLCJzYWFzLnNpbi5mYW4iLCJjdC4wOTAyMjcueHl6Il19#%F0%9F%92%A6%2008
 trojan://Seedgo@162.159.24.175:443?security=tls&sni=bia.RedmATrIX.eu.OrG&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoiV0VGaVhPNDVzUHBOciIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIm5hLjg3Nzc0Lnh5eiIsImNmLjg3Nzc0Lnh5eiIsImZyZWV5eC5jbG91ZGZsYXJlODguZXUub3JnIiwic2Fhcy5zaW4uZmFuIiwiY3QuMDkwMjI3Lnh5eiJdfQ%3D%3D#%F0%9F%92%A6%2009
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@us1.fulitech.top:8443?security=none&flow=xtls-rprx-vision&type=tcp&sni=music.apple.com&encryption=none&fp=ios&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&sid=95248866&headerType=none#US-1
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@us2.fulitech.top:8443?security=none&flow=xtls-rprx-vision&type=tcp&sni=music.apple.com&encryption=none&fp=qq&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&sid=95248866&headerType=none#US-2
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@us3.fulitech.top:8443?security=none&flow=xtls-rprx-vision&type=tcp&sni=music.apple.com&encryption=none&fp=edge&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&sid=95248866&headerType=none#US-3
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@us4.fulitech.top:8443?security=none&flow=xtls-rprx-vision&type=tcp&sni=music.apple.com&encryption=none&fp=safari&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&sid=95248866&headerType=none#US-4
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@sg1.fulitech.top:8443?security=none&flow=xtls-rprx-vision&type=tcp&sni=music.apple.com&encryption=none&fp=firefox&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&headerType=none#DE-5
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@sg3.fulitech.top:8443?security=none&flow=xtls-rprx-vision&type=tcp&sni=music.apple.com&encryption=none&fp=safari&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&headerType=none#DE-6
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@ru1.fulitech.top:8445?security=none&flow=xtls-rprx-vision&type=tcp&sni=music.apple.com&encryption=none&fp=qq&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&headerType=none#RU-7
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@jp3.fulitech.top:8443?security=none&flow=xtls-rprx-vision&type=tcp&sni=music.apple.com&encryption=none&fp=qq&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&headerType=none#IT-8
-vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@ru1.fulitech.top:8444?security=none&flow=xtls-rprx-vision&type=tcp&sni=fastly.cdn.steampipe.steamcontent.com&encryption=none&fp=edge&pbk=N84KEqhuVb6MFs6jg3F74Y-1qc63KTtInzgdiyiXWik&sid=bcf94a63&headerType=none#RU-9
+vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@us1.fulitech.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=qq&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&sid=95248866&spx=%2F&type=tcp&headerType=none#US-1
+vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@us2.fulitech.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=edge&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&sid=95248866&spx=%2F&type=tcp&headerType=none#US-2
+vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@us3.fulitech.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=firefox&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&sid=95248866&spx=%2F&type=tcp&headerType=none#US-3
+vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@us4.fulitech.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=chrome&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&sid=95248866&spx=%2F&type=tcp&headerType=none#US-4x0.5
+vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@sg1.fulitech.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=qq&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&spx=%2F&type=tcp&headerType=none#SG-1
+vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@sg3.fulitech.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=chrome&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&spx=%2F&type=tcp&headerType=none#SG-2
+vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@ru1.fulitech.top:8445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=edge&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&spx=%2F&type=tcp&headerType=none#JP-x0.5
+vless://56c0ab2e-0a8c-4eba-a5a6-cb3e995eda4b@jp3.fulitech.top:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=safari&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&spx=%2F&type=tcp&headerType=none#JP-3
 hysteria2://9aeaf0e2-97c3-479c-9a9c-ccd3e363ad83@hkt1nat.xiao666666.site:61234/?insecure=1&sni=hkt1nat.xiao666666.site#CN-10
 hysteria2://9aeaf0e2-97c3-479c-9a9c-ccd3e363ad83@tw1.aifjj.asia:61001/?insecure=1&sni=www.microsoft.com#CN-11
 hysteria2://9aeaf0e2-97c3-479c-9a9c-ccd3e363ad83@zhaji-uk.xiao666666.site:53149/?insecure=1&sni=iosapps.itunes.apple.com#US-12
@@ -956,4 +955,5 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
