@@ -17,6 +17,7 @@ vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@141.101.114.122:443?encryption=none
 vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@162.159.49.59:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main%203
 vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@198.41.193.52:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main%204
 vless://6b7b8f5c-b40b-4aba-acbd-72f7b53a0888@198.41.208.233:443?encryption=none&security=tls&sni=fn.watermatrix.eu.org&fp=random&type=ws&host=fn.watermatrix.eu.org&path=%2F%3Fed%3D2560#Main%205
+hysteria2://aa08dcfa-e74e-4551-8bdb-590d75f0ac8d@mg3.mutoujs.top:30000?obfs=salamander&obfs-password=cwcy8RPDNKFfuCCP&insecure=0#Cat-US
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@bia.redmatrix.eu.org:443?encryption=none&security=tls&sni=bia.rEDmatRIx.EU.OrG&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoib2ZEUnluaDkyenhLUjh5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmEuODc3Nzc0Lnh5eiIsImNmLjg3Nzc3NC54eXoiLCJmcmVleXguY2xvdWRmbGFyZTg4LmV1Lm9yZyIsInNhYXMuc2luLmZhbiIsImN0LjA5MDIyNy54eXoiXX0%3D#%F0%9F%92%A6%2001
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@www.speedtest.net:443?encryption=none&security=tls&sni=bIa.redMAtrIX.eu.oRG&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoiTWZmeVo2R3QiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJuYS44Nzc3NzQueHl6IiwiY2YuODc3Nzc0Lnh5eiIsImZyZWV5eC5jbG91ZGZsYXJlODguZXUub3JnIiwic2Fhcy5zaW4uZmFuIiwiY3QuMDkwMjI3Lnh5eiJdfQ%3D%3D#%F0%9F%92%A6%2002
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@172.67.206.72:443?encryption=none&security=tls&sni=BIa.RedMAtrix.eu.ORG&alpn=http%2F1.1&fp=chrome&type=ws&host=bia.redmatrix.eu.org&path=%2FeyJqdW5rIjoiY1pSY3pqdUdEb3JrTk9aIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmEuODc3Nzc0Lnh5eiIsImNmLjg3Nzc3NC54eXoiLCJmcmVleXguY2xvdWRmbGFyZTg4LmV1Lm9yZyIsInNhYXMuc2luLmZhbiIsImN0LjA5MDIyNy54eXoiXX0%3D#%F0%9F%92%A6%2003
@@ -909,6 +910,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
 
