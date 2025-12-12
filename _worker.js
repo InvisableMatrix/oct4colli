@@ -115,6 +115,9 @@ hysteria2://9aeaf0e2-97c3-479c-9a9c-ccd3e363ad83@yindu.xiao666666.site:50000?sni
 vless://dcdf8dd9-d05c-4bd0-8ebe-bf2f352c51d7@ru1.fulitech.top:8445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=music.apple.com&fp=edge&pbk=OIBBYP6CEshp9ewNsFUHfHngkPXIlt_h1cN0qmwqHyQ&sid=9709f5aa&spx=%2F&type=tcp&headerType=none#RU-1
 vless://dcdf8dd9-d05c-4bd0-8ebe-bf2f352c51d7@ru1.fulitech.top:8444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastly.cdn.steampipe.steamcontent.com&fp=ios&pbk=N84KEqhuVb6MFs6jg3F74Y-1qc63KTtInzgdiyiXWik&sid=bcf94a63&spx=%2F&type=tcp&headerType=none#RU-2
 vless://0f142cd9-08b6-4851-b942-f5178eaff007@206.238.237.60:443?encryption=none&security=tls&sni=light.softwater.netlib.re&type=ws&host=light.softwater.netlib.re&path=%2F%3Fed%3D2048#ZA
+vless://796b1f2f-9824-4c1a-9159-e88a53c1b0eb@47.79.38.32:30111?encryption=mlkem768x25519plus.native.0rtt.dklATWsAQPvKc6WO5rsDxdoVV7uX1qF_udecoK2lwnw&security=tls&fp=ios&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP-1
+vless://35505e35-a242-4761-9009-4711d1f5f8ca@47.79.38.32:30111?encryption=mlkem768x25519plus.native.0rtt.dklATWsAQPvKc6WO5rsDxdoVV7uX1qF_udecoK2lwnw&security=tls&fp=ios&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP-2
+vless://6a001025-71b2-4edf-a191-08a33f0960d7@45.93.31.81:59087?encryption=none&security=tls&fp=ios&alpn=h2%2Ch3&insecure=0&allowInsecure=0&type=tcp&headerType=none#Kr-1
 `;
 
 let urls = [];
@@ -928,6 +931,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
 
